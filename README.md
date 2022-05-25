@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Slava</h1>
-<h3 align="center">Frontend Developer / Team Lead from Russia</h3>
+<h3 align="center">Frontend Developer / Team Lead </h3>
 
 - 🌱 I’m currently learning **React, Next, Go, Rescript**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **cherkesov.work@gmail.com**
 
-- 📄 Know about my experiences [https://small-roof-02e.notion.site/CV-290b0ba6b6534dae854ab94ba8d31281](https://small-roof-02e.notion.site/CV-290b0ba6b6534dae854ab94ba8d31281)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
