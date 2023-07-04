@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Slava</h1>
 <h3 align="center">Frontend Developer / Team Lead </h3>
 
-- 🌱 I’m currently learning **React, Next, Go, Rescript**
-
 - 💬 Ask me about **Nuxt, Vue**
 
 - 📫 How to reach me **cherkesov.work@gmail.com**
